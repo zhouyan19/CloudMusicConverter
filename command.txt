@@ -1,0 +1,1 @@
+pyinstaller -w -F --clean --icon="D:\CMC\icon.ico" GUI.py
